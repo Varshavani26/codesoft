@@ -77,7 +77,7 @@ public class numbergame {
      }
      else
 
-     System.out.println("You Have Won "+totalScore+""+"Games Out Of "+count +" "+"Attempts");
+     System.out.println("You Have Won varsha "+totalScore+""+"Games Out Of "+count +" "+"Attempts");
 
      
      
